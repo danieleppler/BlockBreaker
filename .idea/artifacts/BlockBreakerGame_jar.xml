@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockBreakerGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlockBreakerGame_jar</output-path>
+    <root id="archive" name="BlockBreakerGame.jar">
+      <element id="module-output" name="BlockBreakerGame" />
+    </root>
+  </artifact>
+</component>
